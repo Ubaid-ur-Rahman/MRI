@@ -1,2 +1,7 @@
-# MRI
-testing
+# Magnetic Resonance Imaging (MRI)
+The MRI (Magnetic Resonance Imaging) system is a medical imaging technology that uses a strong magnetic field and radio waves to produce detailed images of the internal structures of the body. The system consists of a large tube-shaped magnet, a computer, and a radiofrequency transmitter and receiver. The patient lies on a table that slides into the magnet, and the radio waves are directed at the body, causing the hydrogen atoms in the body's tissues to emit signals that are detected by the receiver.
+
+
+DICOM (Digital Imaging and Communications in Medicine) is an established standard used for the handling, storage, and transmission of medical images and related data. It has gained wide acceptance, particularly in the field of magnetic resonance imaging (MRI), where it ensures interoperability and compatibility between different imaging systems and software. The use of DICOM is crucial in MRI imaging for the acquisition, processing, and sharing of imaging data. It facilitates the storage and retrieval of MRI images in a standardized format that can be easily accessed and shared by healthcare professionals across different institutions and systems.
+
+In these notebooks, I have discusses and presented the results of the assignment tasks, based on the lectures and practical session. These tasks include understanding the basic concepts of MRI, gaining a practical view of k-space, beginning to grasp the principles of quantitative MRI, and initiating knowledge of processing non-standardized data.
